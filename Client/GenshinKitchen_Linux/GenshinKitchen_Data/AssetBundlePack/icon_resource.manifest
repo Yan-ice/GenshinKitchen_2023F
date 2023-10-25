@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 1611556705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd7ca9889e59c2bdf6673e482767b149
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundleData/icon_resource/machine/AutoCold.png
+- Assets/BundleData/icon_resource/recipes/r_mjhlbjr.png
+- Assets/BundleData/icon_resource/chara/3.png
+- Assets/BundleData/icon_resource/items/zrf.png
+- Assets/BundleData/icon_resource/machine/ManualHot.png
+- Assets/BundleData/icon_resource/items/xm.png
+- Assets/BundleData/icon_resource/recipes/r_xnjjj.png
+- Assets/BundleData/icon_resource/items/rp.png
+- Assets/BundleData/icon_resource/recipes/r_mf.png
+- Assets/BundleData/icon_resource/items/mjhlbjr.png
+- Assets/BundleData/icon_resource/chara/1.png
+- Assets/BundleData/icon_resource/recipes/r_lrpp.png
+- Assets/BundleData/icon_resource/recipes/r_t.png
+- Assets/BundleData/icon_resource/recipes/r_tthnj.png
+- Assets/BundleData/icon_resource/recipes/r_hall.png
+- Assets/BundleData/icon_resource/items/ljf.png
+- Assets/BundleData/icon_resource/chara/7.png
+- Assets/BundleData/icon_resource/items/xnjjj.png
+- Assets/BundleData/icon_resource/items/tth.png
+- Assets/BundleData/icon_resource/recipes/r_smsmt.png
+- Assets/BundleData/icon_resource/chara/6.png
+- Assets/BundleData/icon_resource/items/ht.png
+- Assets/BundleData/icon_resource/items/y.png
+- Assets/BundleData/icon_resource/chara/5.png
+- Assets/BundleData/icon_resource/machine/AutoHot.png
+- Assets/BundleData/icon_resource/items/xc.png
+- Assets/BundleData/icon_resource/machine/ManualCombine.png
+- Assets/BundleData/icon_resource/chara/4.png
+- Assets/BundleData/icon_resource/recipes/r_xc.png
+- Assets/BundleData/icon_resource/items/t.png
+- Assets/BundleData/icon_resource/items/hall.png
+- Assets/BundleData/icon_resource/items/sr.png
+- Assets/BundleData/icon_resource/items/jyjj.png
+- Assets/BundleData/icon_resource/chara/8.png
+- Assets/BundleData/icon_resource/items/mf.png
+- Assets/BundleData/icon_resource/recipes/r_nothing.png
+- Assets/BundleData/icon_resource/items/tthnj.png
+- Assets/BundleData/icon_resource/machine/Table.png
+- Assets/BundleData/icon_resource/machine/Submit.png
+- Assets/BundleData/icon_resource/items/lrpp.png
+- Assets/BundleData/icon_resource/machine/AutoCombine.png
+- Assets/BundleData/icon_resource/recipes/r_ljf.png
+- Assets/BundleData/icon_resource/keyboard_help.png
+- Assets/BundleData/icon_resource/chara/2.png
+- Assets/BundleData/icon_resource/items/smsmt.png
+- Assets/BundleData/icon_resource/machine/Bin.png
+- Assets/BundleData/icon_resource/machine/ItemSource.png
+- Assets/BundleData/icon_resource/recipes/r_zrf.png
+- Assets/BundleData/icon_resource/recipes/r_ht.png
+- Assets/BundleData/icon_resource/recipes/r_rp.png
+- Assets/BundleData/icon_resource/machine/ManualCold.png
+- Assets/BundleData/icon_resource/items/sm.png
+Dependencies: []

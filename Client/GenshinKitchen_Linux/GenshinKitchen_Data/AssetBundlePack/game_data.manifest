@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3790659935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d0744b01f713c829b7d8ad299b317c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04fe97b7fc2f56a12f72365bd4c81609
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundleData/game_data/json/item_list.json
+- Assets/BundleData/game_data/music/GenshinImpact.mp3
+- Assets/BundleData/game_data/json/recipe_list.json
+- Assets/BundleData/game_data/json/item_list_en.json
+Dependencies: []
