@@ -7,7 +7,7 @@ The *cooking* operation can process **multiple** ingredients into **cusines**, b
 ## *Cooking* Machine
 以下两种机器能够对食材实施*烹饪*操作. 对机器的详细介绍, 请参考wiki的Machine部分.
 
-The following two types of machines can perform *cooking* operations on food ingredients. Refer to the Machine section of the wiki for a detailed description of the machine.
+The following two types of machines(Stove/Oven) can perform *cooking* operations on food ingredients. Refer to the Machine section of the wiki for a detailed description of the machine.
 
 ![icon](../machine/AutoHot.png) ![icon](../machine/ManualHot.png)
 

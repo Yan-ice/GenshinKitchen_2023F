@@ -126,13 +126,13 @@ module UARTReceiver(
 endmodule
 
 module UART(
-  input        clock,             // uart clock. Please use 16 x BultRate. (such as: 9600 * 16 = 153600Hz£©
-               reset,             // reset
-               io_pair_rx,        // rx, connect to R5 please
+  input        clock,             // uart clock. Please use 16 x BaudRate. (such as: 9600 * 16 = 153600Hz)
+               reset,             // reset on high.
+               io_pair_rx,        // rx, connect to R5 pin please
   input  [7:0] io_dataIn_bits,    // (a) byte from DevelopmentBoard => GenshinKitchen
-  output       io_pair_tx,        // tx, connect to T4 please
-               io_dataIn_ready,   // referring (a)£»pulse 1 after a byte tramsmit success.
-               reg io_dataOut_valid,  // referring (b)
+  output       io_pair_tx,        // tx, connect to T4 pin please
+               io_dataIn_ready,   // referring (a) Â£Â»pulse 1 after a byte tramsmit success.
+           reg io_dataOut_valid,  // referring (b)
   output reg [7:0] io_dataOut_bits    // (b) byte from GenshinKitchen => DevelopmentBoard, only available if io_dataOut_valid=1
 );
 

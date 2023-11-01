@@ -7,7 +7,7 @@ Processing operations can process **a single** ingredient into another ingredien
 ## *Processing* Machine
 以下两种机器能够对食材实施*加工*操作. 对机器的详细介绍, 请参考wiki的Machine部分.
 
-The following two types of machines can perform *processing* operations on food ingredients. Refer to the Machine section of the wiki for a detailed description of the machine.
+The following two types of machines(Stone Mill/Cutting Machine) can perform *processing* operations on food ingredients. Refer to the Machine section of the wiki for a detailed description of the machine.
 
 ![icon](../machine/AutoCold.png) ![icon](../machine/ManualCold.png)
 

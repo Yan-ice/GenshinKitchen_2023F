@@ -7,7 +7,7 @@
 ## *Combining* Machine
 以下两种机器能够对食材实施*组合*操作. 对机器的详细介绍, 请参考wiki的Machine部分.
 
-The following two types of machines can perform *combining* operations on food ingredients. Refer to the Machine section of the wiki for a detailed description of the machine.
+The following two types of machines(Workbench/Mixer) can perform *combining* operations on food ingredients. Refer to the Machine section of the wiki for a detailed description of the machine.
 
 ![icon](../machine/AutoCombine.png) ![icon](../machine/ManualCombine.png)
 

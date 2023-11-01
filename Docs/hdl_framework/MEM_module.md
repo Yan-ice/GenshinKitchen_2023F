@@ -7,7 +7,7 @@ module ScriptMem(
   input        clock,             // connect to the same wire of UART module
                reset,             // connect to the same wire of UART module
   input  [7:0] dataOut_bits,      // connect to the same wire of UART module
-  input  [7:0] dataOut_valid,     // connect to the same wire of UART module
+  input        dataOut_valid,     // connect to the same wire of UART module
   
   output       script_mode,  // If script_mode is 1, you should ignore the dataOut_bits from UART module
   input [7:0] pc,      //program counter.
@@ -15,8 +15,7 @@ module ScriptMem(
 );
 ```
 
-前四个接口直接和UART module的对应接口连接,ScriptMem将会通过这些接口加载脚本.
-
+前四个接口直接和UART module的对应接口连接,ScriptMem将会通过这些接口加载脚本. 
 
 The first four interfaces connect directly to the corresponding interfaces on the UART module, and ScriptMem will load scripts through these interfaces.
 

@@ -8,10 +8,14 @@ In this section, we will look at the types of recipes, the ingredients and the m
 
 There are a total of about 20 possible items, six of which are basic ingredients that can be obtained directly, and the rest have their own specific recipes.
 
+在合成配方中，有三种针对食物的处理操作，分别是加工、组合、烹饪。厨房里有对应的机器能够对食材执行这些操作。
+
+There are three possible operations for food, namely Processing, Combining, Cooking. There are machines that can perform these operations on the ingredients.
+
+
 餐厅中一共有 20 个机器，依次具有编号 1~20, 如下表。他们各自具有自己的功能, 有的能产出食物,有的能存放食物,有的能加工食物.
 
 There are a total of 20 machines in the restaurant with serial numbers 1 to 20, as shown in the following table. They each have their own function, some can produce food, some can store food, and some can process food.
-
 
 |Machine ID|	Machine Type|
 |------|------|

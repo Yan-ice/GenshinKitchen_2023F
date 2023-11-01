@@ -5,12 +5,16 @@
 
 所有被放入垃圾桶的东西都会被快速销毁！
 
-Everything placed in the garbage bin will be instantly destroyed! 
+Everything placed in the garbage bin will be quickly destroyed! 
+
+理论上，你可以抢在食物被销毁前立刻将其取出，但做这种事情真的很无聊orz
+
+In theory, you could grab food before it's destroyed, but it's really boring :D
 
 |Operation|Description|
 |--------|-------------------------------|
 |Put     | If you have food ingredients in your hand, put them in the garbage bin; otherwise, it is **illegal**. |
-|Get     | If there are ingredients in the bin, take them in your hand; otherwise, it is **illegal**. |
+|Get     | (Not recommended) If there are ingredients in it, take them; otherwise, it is **illegal**. |
 |Interact| No action. |
 |Throw   | If you have food ingredients in your hand, throw them into the garbage bin. |
 

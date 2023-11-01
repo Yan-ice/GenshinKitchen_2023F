@@ -21,16 +21,15 @@
 
 
 module ScriptMem(
-  input        clock,             // uart clock. Please use 8 x BultRate. (such as: 9600 * 16 = 153600Hz£©
-               reset,             // reset
-  input  [7:0] dataOut_bits,
-  input  [7:0] dataOut_valid,
+  input        clock,             // connect to the same wire of UART module
+               reset,             // connect to the same wire of UART module
+  input  [7:0] dataOut_bits,      // connect to the same wire of UART module
+  input        dataOut_valid,     // connect to the same wire of UART module
   
-  output       script_mode,
-  input [7:0] pc, //program counter
-  output [15:0] script //instructions from pc
-  
-    );
+  output       script_mode,  // If script_mode is 1, you should ignore the dataOut_bits from UART module
+  input [7:0] pc,      //program counter.
+  output [15:0] script //instructions from pc.
+);
     
     reg [7:0] script_cnt = 0;
     reg [7:0] script_size = 0;

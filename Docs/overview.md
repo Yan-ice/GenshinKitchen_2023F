@@ -51,4 +51,7 @@ After compiling the script, click the button to load the script into the develop
 
 Click the left button of the five buttons on the development board to reset the script executive, and you can see the development board fully automatic cooking!
 
+# Start your own design
+
+Clone the HDL framework.
 

@@ -1,4 +1,7 @@
 # Welcome to GenshinKitchen
+
+![sample](./Sample.gif)
+
 **旅行者正在猎鹿人餐馆进行实习，需要你的帮助！**
 
 **The traveler is undergoing an internship at the Huntsman's Restaurant and seeks your assistance!**
