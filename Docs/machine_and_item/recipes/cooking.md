@@ -5,7 +5,7 @@
 The *cooking* operation can process **multiple** ingredients into **cusines**, but it may also burn **cusines** into bad cusines.
 
 ## *Cooking* Machine
-以下两种机器能够对食材实施*烹饪*操作. 对机器的详细介绍, 请参考wiki的Machine部分.
+以下两种机器(Stove/Oven)能够对食材实施*烹饪*操作. 对机器的详细介绍, 请参考wiki的Machine部分.
 
 The following two types of machines(Stove/Oven) can perform *cooking* operations on food ingredients. Refer to the Machine section of the wiki for a detailed description of the machine.
 

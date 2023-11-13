@@ -1,7 +1,7 @@
 ## Traveler Targeting Machine
 |data[7:2]|data[1:0]|Description|
 |------|--------|----------|
-|xxxxxx|10|Traveler targeting on specific machine with ID xxxxxx.|
+|xxxxxx|11|Traveler targeting on specific machine with ID xxxxxx.|
 
 此类指令处于频道0b11并传入一个6bit操作数,厨师会将自己的目标机器设为该操作数.
 

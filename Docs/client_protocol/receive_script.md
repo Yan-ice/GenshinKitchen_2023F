@@ -1,4 +1,4 @@
-## Feedback Signal
+## Script Loading
 |data[7:2]|data[1:0]|Description|
 |------|---------|--------|
 |xxxxxx|10|Switch to **script loading mode** with script size xxxxxx10 bits.|
